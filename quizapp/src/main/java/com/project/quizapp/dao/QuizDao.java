@@ -1,2 +1,0 @@
-package com.project.quizapp.dao;public interface QuizDao {
-}
